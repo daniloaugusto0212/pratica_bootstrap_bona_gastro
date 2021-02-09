@@ -1,0 +1,12 @@
+body {
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+.navbar-reprograma {
+    background-color: #f7efff;
+}
+
+img#navbar-brand-bona {
+    height: 34px;
+    margin-top: -6px;
+}
