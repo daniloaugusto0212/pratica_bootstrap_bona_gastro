@@ -2,6 +2,10 @@ body {
     font-family: 'Quattrocento Sans', sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .navbar-reprograma {
     background-color: #f7efff;
 }
@@ -9,4 +13,9 @@ body {
 img#navbar-brand-bona {
     height: 34px;
     margin-top: -6px;
+}
+
+.bona-cardapio {
+    border: 6px solid #eee;
+    width: 100%;
 }
